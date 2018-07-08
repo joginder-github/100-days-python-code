@@ -1,0 +1,11 @@
+x=int(input("enter the first number"))
+y=int(input("enter the second number"))
+print(x+y,end="\n")     # addition
+print(x-y,end="\n")     # subtraction  
+print(x*y,end="\n")     # multipication
+print(x/y,end="\n")     # division 
+print(x%y,end="\n")     # modulo
+print(x**y,end="\n")    # exponent
+print(x**0.5,end="\n")  #square root
+print(round(x**0.5,4),end="\n")  # square root round off upto 4 decimal digits
+print(x**y**x,end="\n") # associativity in of exponent is right to left
