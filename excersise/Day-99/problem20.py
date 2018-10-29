@@ -18,6 +18,5 @@ American.printNationality()
 
 # output:
 
-
 # America
 # America
